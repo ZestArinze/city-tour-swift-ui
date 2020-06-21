@@ -37,14 +37,13 @@ struct CityDetail: View {
                 }
             }.listRowInsets(EdgeInsets())
             
-            VStack(alignment: .leading) {
-                Text(city.description)
+            Text(city.description)
                 .foregroundColor(.primary)
                 .font(.body)
                 .lineSpacing(12)
                 .lineLimit(nil)
-                
-            }.padding(.top).padding(.bottom)
+                .padding(.top)
+                .padding(.bottom)
             
         }
         .edgesIgnoringSafeArea(.top)
