@@ -1,72 +1,149 @@
 [
   {
     "id": 1,
-    "name": "Lagos",
-    "featured_image": "city_1_1",
-    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis.",
+    "name": "Johannesburg, SA",
+    "featured_image": "johannesburg",
+    "description": "By population, Johannesburg is the largest and wealthiest city in South Africa. Called Africa’s economic powerhouse, this city is also the largest economy of any metropolitan region in Sub-Saharan Africa. Credit: https://africa-facts.org/top-10-most-beautiful-cities-in-africa/",
     "continent": "Africa"
   },
   {
     "id": 2,
-    "name": "city2",
-    "featured_image": "city_2_1",
-    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis.",
-    "continent": "Asia"
+    "name": "Tunis, Tunisia",
+    "featured_image": "tunis",
+    "description": "Tunis is both the capital and the largest city of Tunisia. The greater metropolitan area of Tunis is often referred to as Grand Tunis. Tunis is the focus of Tunisian political and administrative life. It is also the centre of the country’s commercial activity. Credit: https://africa-facts.org/top-10-most-beautiful-cities-in-africa/",
+    "continent": "Africa"
   },
   {
     "id": 3,
-    "name": "city3",
-    "featured_image": "city_3_1",
-    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis.",
-    "continent": "Europe"
+    "name": "Abuja, Nigeria",
+    "featured_image": "abuja",
+    "description": "Nigeria’s capital, Abuja was built in the 80’s before being disposing Lagos as the capital city of the most populous black nation in the world in 1991. Abuja is one of the richest and most expensive in Africa. Credit: https://africa-facts.org/top-10-most-beautiful-cities-in-africa/",
+    "continent": "Africa"
   },
   {
     "id": 4,
-    "name": "city4",
-    "featured_image": "city_4_1",
-    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis.",
-    "continent": "North America"
+    "name": "Dar es Salaam",
+    "featured_image": "dar_es_salaam",
+    "description": "Former capital, richest and largest city in Tanzania, Dar es Salaam is the major city for both business and government in Tanzania. Credit: https://africa-facts.org/top-10-most-beautiful-cities-in-africa/",
+    "continent": "Africa"
   },
   {
     "id": 5,
-    "name": "city5",
-    "featured_image": "city_5_1",
-    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis.",
-    "continent": "South America"
+    "name": "Port Louis, Mauritius",
+    "featured_image": "port_louis",
+    "description": "The capital city of Mauritius, Port Louis is one of Africa’s main financial centers. The city is mostly overshadowed by its financial hub, tourism, manufacturing sector, and port facilities. This nation languages include English and French. Credit: https://africa-facts.org/top-10-most-beautiful-cities-in-africa/",
+    "continent": "Africa"
   },
   {
     "id": 6,
-    "name": "Abuja",
-    "featured_image": "city_1_2",
-    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis.",
+    "name": "Cairo, Egypt",
+    "featured_image": "cairo",
+    "description": "The home of civilization, Cairo is Egypt’s capital and the largest city in the Middle-East and second-largest in Africa after Lagos. This city was named the “world’s most 24-hour city” in 2011 by Badoo ahead of New York and Paris. Credit: https://africa-facts.org/top-10-most-beautiful-cities-in-africa/",
     "continent": "Africa"
   },
   {
     "id": 7,
-    "name": "city7",
-    "featured_image": "city_2_2",
-    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis.",
-    "continent": "Asia"
+    "name": "Cape Town, SA",
+    "featured_image": "cape_town",
+    "description": "The second-most populous city in South Africa, Cape Town is famous for its harbour, Table Mountain and Cape Point. It is the most popular international tourist destination in South Africa. Credit: https://africa-facts.org/top-10-most-beautiful-cities-in-africa/",
+    "continent": "Africa"
   },
   {
     "id": 8,
-    "name": "city8",
-    "featured_image": "city_3_2",
-    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis.",
+    "name": "Paris, France",
+    "featured_image": "paris",
+    "description": "Paris is a place where romance and history play side by side. Cafés line cobblestone streets, beautiful people stroll along the Seine at all hours, and every neighborhood seems to have its own iconic landmark. Credit: https://www.cntraveler.com/gallery/20-most-beautiful-cities-in-europe",
     "continent": "Europe"
   },
   {
     "id": 9,
-    "name": "city9",
-    "featured_image": "city_4_2",
-    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis.",
-    "continent": "North America"
+    "name": "Edinburgh, Scotland",
+    "featured_image": "edinburgh",
+    "description": "Beloved for its endless green hills and fascinating history, Edinburgh looks great in all seasons. It also happens to have an extinct volcano within its parameters. Credit: https://www.cntraveler.com/gallery/20-most-beautiful-cities-in-europe",
+    "continent": "Europe"
   },
   {
     "id": 10,
-    "name": "city10",
-    "featured_image": "city_5_2",
-    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis.",
+    "name": "Bruges, Belgium",
+    "featured_image": "bruges",
+    "description": "With its peaceful, tree-lined canals and cobblestone streets, it's easy to see Bruges as one big fairytale setting come to life. Much of the city's charm lies in its immaculately preserved old city, built between the 12th and 15th centuries. Credit: https://www.cntraveler.com/gallery/20-most-beautiful-cities-in-europe",
     "continent": "Europe"
+  },
+  {
+    "id": 11,
+    "name": "Charleston, USA",
+    "featured_image": "charleston",
+    "description": "Between its Instagram-friendly pastel houses and comforting Lowcountry cuisine, Charleston — which has repeatedly been ranked a top US city by Travel + Leisure — epitomizes southern charm. Thanks to a plethora of art schools and galleries. Credit: https://www.insider.com/usa-must-visit-cities-2018-3",
+    "continent": "North America"
+  },
+  {
+    "id": 12,
+    "name": "San Diego, USA",
+    "featured_image": "san_diego",
+    "description": "The SoCal city was ranked 8th best overall and made it into the top 10 in all other categories, which include culture, entertainment, sightseeing, sports and adventure, and food, among other things. Credit: https://www.insider.com/usa-must-visit-cities-2018-3",
+    "continent": "North America"
+  },
+  {
+    "id": 13,
+    "name": "Chicago, USA",
+    "featured_image": "chicago",
+    "description": "The 3rd best overall city behind Los Angeles and New York — the only US cities with larger populations. Credit: https://www.insider.com/usa-must-visit-cities-2018-3",
+    "continent": "North America"
+  },
+  {
+    "id": 14,
+    "name": "Vancouver, Canada",
+    "featured_image": "vancouver",
+    "description": "A city unto urbanism itself, Vancouver is clean, modern, and efficient. Owing in part to its mild climate (that never gets too cold or too hot), the city has a strong outdoorsy streak in it. Credit: https://holidaysarthi.com/top-10-most-beautiful-cities-of-canada/",
+    "continent": "North America"
+  },
+  {
+    "id": 15,
+    "name": "Quebec, Canada",
+    "featured_image": "quebec",
+    "description": "Quebec’s capital city, which is well known for its quaint Old City, its grand winter festival, and gorgeous architecture, such as the Chateau Frontenac. Visitors and locals alike boast about Quebec City’s charming European feel. Credit: https://holidaysarthi.com/top-10-most-beautiful-cities-of-canada/",
+    "continent": "North America"
+  },
+  {
+    "id": 16,
+    "name": "Rio de Janeiro",
+    "featured_image": "rio_de_janeiro",
+    "description": "One of the most beautiful cities in South America, and one of the most spectacular on the whole planet. The Cidade Maravilhosa (marvellous city) is a must-visit for every traveller. Credit: https://www.hostelworld.com/blog/best-cities-to-visit-in-south-america/",
+    "continent": "South America"
+  },
+  {
+    "id": 17,
+    "name": "Medellin, Colombia",
+    "featured_image": "medellin",
+    "description": "Medellin is known as one of the best cities in South America for digital nomads, and it’s no surprise that many full-time travellers find it impossible to leave the ‘City of Eternal Spring’ – named after its year-round lovely weather. Credit: https://www.hostelworld.com/blog/best-cities-to-visit-in-south-america/",
+    "continent": "South America"
+  },
+  {
+    "id": 18,
+    "name": "Tokyo, Japan",
+    "featured_image": "tokyo",
+    "description": "Tokyo is by far one of the most fascinating, vast, hectic and wealthy Asian cities. Offering a combination of insights into what ancient Japan used to look like and futuristic high-tech systems, it is a city where tradition and modernity go hand in hand. Credit: https://theculturetrip.com/asia/articles/the-12-amazing-asian-cities-you-should-visit-before-you-die/",
+    "continent": "Asia"
+  },
+  {
+    "id": 19,
+    "name": "Hong Kong",
+    "featured_image": "hong_kong",
+    "description": "Hong Kong is a modern, wealthy and cosmopolitan city with a multitude of faces, shaped by both Cantonese Chinese and British colonisation. Credit: https://theculturetrip.com/asia/articles/the-12-amazing-asian-cities-you-should-visit-before-you-die/",
+    "continent": "Asia"
+  },
+  {
+    "id": 20,
+    "name": "Melbourne, Australia",
+    "featured_image": "melbourne",
+    "description": "With its vintage shops, graffiti-covered backstreets and coffee culture, Melbourne has earned a reputation as Australia’s capital of cool. The city has plenty to see and do whether you enjoy art or sports. Credit: https://www.bookmundi.com/t/12-best-cities-to-visit-in-australia",
+    "continent": "Australia"
+  },
+  {
+    "id": 21,
+    "name": "Gold Coast, Australia",
+    "featured_image": "gold_coast",
+    "description": "If you are looking for fun, look no further. Famous for surfing, rollercoasters and nightclubs, the Gold Coast attracts millions of tourists every year. Its iconic coastline stretches for more than 60 kilometres and boasts some of Australia’s best beaches. Credit: https://www.bookmundi.com/t/12-best-cities-to-visit-in-australia",
+    "continent": "Australia"
   }
 ]

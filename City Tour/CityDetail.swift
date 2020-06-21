@@ -44,11 +44,6 @@ struct CityDetail: View {
                 .lineSpacing(12)
                 .lineLimit(nil)
                 
-                HStack {
-                    Spacer()
-                    MoreButton()
-                    Spacer()
-                }.padding(.top, 40)
             }.padding(.top).padding(.bottom)
             
         }
@@ -56,19 +51,6 @@ struct CityDetail: View {
         .navigationBarHidden(true)
     }
 }
- 
- struct MoreButton : View {
-    var body: some View {
-        Button(action: {}) {
-            Text("More Info")
-        }
-        .frame(width: 200, height: 50)
-        .background(Color.blue)
-        .foregroundColor(.white)
-        .font(.headline)
-    .cornerRadius(10)
-    }
- }
 
 struct CityDetail_Previews: PreviewProvider {
     static var previews: some View {

@@ -21,5 +21,6 @@ struct City: Hashable, Codable, Identifiable {
         case europe = "Europe"
         case northAmerica = "North America"
         case southAmerica = "South America"
+        case australia = "Australia"
     }
 }
