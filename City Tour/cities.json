@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Lagos",
+    "featured_image": "city_1_1",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis.",
+    "continent": "Africa"
+  },
+  {
+    "id": 2,
+    "name": "city2",
+    "featured_image": "city_2_1",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis.",
+    "continent": "Asia"
+  },
+  {
+    "id": 3,
+    "name": "city3",
+    "featured_image": "city_3_1",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis.",
+    "continent": "Europe"
+  },
+  {
+    "id": 4,
+    "name": "city4",
+    "featured_image": "city_4_1",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis.",
+    "continent": "North America"
+  },
+  {
+    "id": 5,
+    "name": "city5",
+    "featured_image": "city_5_1",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis.",
+    "continent": "South America"
+  },
+  {
+    "id": 6,
+    "name": "Abuja",
+    "featured_image": "city_1_2",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis.",
+    "continent": "Africa"
+  },
+  {
+    "id": 7,
+    "name": "city7",
+    "featured_image": "city_2_2",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis.",
+    "continent": "Asia"
+  },
+  {
+    "id": 8,
+    "name": "city8",
+    "featured_image": "city_3_2",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis.",
+    "continent": "Europe"
+  },
+  {
+    "id": 9,
+    "name": "city9",
+    "featured_image": "city_4_2",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis.",
+    "continent": "North America"
+  },
+  {
+    "id": 10,
+    "name": "city10",
+    "featured_image": "city_5_2",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus consectetur culpa dolorum nulla, expedita tempore quo voluptas provident perferendis nemo a ab accusantium odit labore dolor ad assumenda sunt blanditiis.",
+    "continent": "Europe"
+  }
+]
